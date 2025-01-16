@@ -1,0 +1,25 @@
+body{
+    background-color: #FFEFBD;
+    font-family: "Rubik", sans-serif;
+}
+
+#btnAdd{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    border: none;
+    background-color: green;
+    color: white;
+    margin: 0 30px 30px 0;
+    box-shadow: 3px 3px 3px gray;
+    font-size: 25px;
+}
+
+#btnAdd:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
